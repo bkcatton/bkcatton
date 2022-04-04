@@ -4,5 +4,5 @@ I'm a recent graduate of the Lighthouse Labs Web Development Bootcamp. I also ha
 
 ## Connect with me
 
-- [My Resume]('https://resume.creddle.io/resume/a5jwp04enz4')
-- [Linkedin]('https://www.linkedin.com/in/bencatton/')
+- [My Resume](https://resume.creddle.io/resume/a5jwp04enz4)
+- [Linkedin](https://www.linkedin.com/in/bencatton/)
