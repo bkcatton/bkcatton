@@ -1,8 +1,9 @@
 ## Hi, I'm Ben
 
-I'm a recent graduate of the Lighthouse Labs Web Development Bootcamp. I also have a degree in mechanical engineering from the University of British Columbia. I have worked as an engineer for 5 years, and am excited to continue building exciting things, this time as a software engineer!
+I'm a software engineer passionate about building clean, maintainable solutions. I transitioned into development through the Lighthouse Labs Web Development Bootcamp after earning my mechanical engineering degree from UBC and working as an engineer for several years.
+I work primarily with React, Node.js, and MySQL, contributing to full-stack applications and always looking to improve through code reviews and learning new patterns. I enjoy tackling complex problems and shipping features that provide real value.
+When I'm not coding, you'll find me surfing, snowboarding,
 
 ## Connect with me
 
-- [My Resume](https://resume.creddle.io/resume/a5jwp04enz4)
 - [Linkedin](https://www.linkedin.com/in/bencatton/)
